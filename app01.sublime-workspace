@@ -1,0 +1,579 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sari",
+				"saripkro_tweaks_bb2html"
+			],
+			[
+				"sar",
+				"saripkro_tweaks_bb_strip"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"array",
+				"array_diff"
+			],
+			[
+				"ite",
+				"items_html"
+			],
+			[
+				"it",
+				"items_html"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"auth",
+				"auth_set_cookie"
+			],
+			[
+				"_S",
+				"_SESSION"
+			],
+			[
+				"TE",
+				"TEMP2"
+			],
+			[
+				"ma",
+				"match"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"views-",
+				"views-row"
+			],
+			[
+				"big",
+				"bigger"
+			],
+			[
+				"bi",
+				"big"
+			],
+			[
+				"bo",
+				"bold"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"strip",
+				"strip_entities"
+			],
+			[
+				"get_def",
+				"get_defined_vars"
+			],
+			[
+				"fie",
+				"field_date"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"views",
+				"views-row"
+			],
+			[
+				"rev",
+				"revref"
+			],
+			[
+				"tit",
+				"title_field"
+			],
+			[
+				"all",
+				"all_references"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"drupal",
+				"drupal_set_message"
+			],
+			[
+				"view",
+				"view-article-search"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"pro",
+				"property"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"pho",
+				"photos"
+			],
+			[
+				"p",
+				"photo_url"
+			],
+			[
+				"is",
+				"is_dir"
+			],
+			[
+				"pathi",
+				"path_info"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"al",
+				"album"
+			],
+			[
+				"th",
+				"theme_registry"
+			],
+			[
+				"NO",
+				"node-journalarticle"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"fi",
+				"field-name-field-company-link"
+			],
+			[
+				"cle",
+				"clear"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"padding-",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 332.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/administrator/work/saripkro_shitty/scss/style.scss",
+		"/home/administrator/work/saripkro_shitty/css/style.css",
+		"/tmp/fz3temp-1/config.rb",
+		"/tmp/fz3temp-1/phpfm.php",
+		"/tmp/fz3temp-1/saripkro_tweaks.module",
+		"/tmp/fz3temp-1/page.tpl.php",
+		"/tmp/fz3temp-1/template.php",
+		"/tmp/fz3temp-1/node.tpl.php",
+		"/mnt/hosting/mmi/html/sites/all/themes/izjournal/node--journalarticle.tpl.php",
+		"/mnt/hosting/mmi/html/sites/all/themes/izjournal/css/style.css",
+		"/mnt/hosting/mmi/html/sites/all/modules/custom/custom_tweaks/custom_tweaks.module",
+		"/mnt/hosting/mmi/html/sites/all/themes/izjournal/template.php",
+		"/mnt/hosting/mmi/html/sites/all/themes/izjournal/page.tpl.php",
+		"/mnt/hosting/mmi/html/sites/all/modules/custom/custom_tweaks/custom_tweaks.info",
+		"/mnt/hosting/mmi/html/themes/bartik/template.php",
+		"/mnt/hosting/mmi/html/sites/all/themes/izjournal/node--journalarticle--teaser.tpl.php",
+		"/home/administrator/.vimrc",
+		"/home/administrator/.vim/colors/lucius.vim",
+		"/mnt/hosting/andjournal/html/sites/all/themes/bonjour/node--author.tpl.php",
+		"/mnt/hosting/mmi/html/sites/all/themes/izjournal/field--field-info--author.tpl.php",
+		"/mnt/hosting/andjournal/html/sites/all/themes/bonjour/field--field-info--author.tpl.php",
+		"/mnt/hosting/mmi/html/includes/entity.inc",
+		"/home/administrator/.config/Terminal/terminalrc",
+		"/home/administrator/.vim/colors/Tomorrow-Dawn.vim",
+		"/home/administrator/.vim/colors/dawn.vim",
+		"/home/administrator/.vim/bundle/delimitMate/plugin/delimitMate.vim",
+		"/mnt/hosting/prcnitssu/html/adm/105_soft/add.php",
+		"/mnt/hosting/prcnitssu/html/adm/105_soft/inc/func.php",
+		"/mnt/hosting/prcnitssu/html/adm/105_soft/inc/env.php",
+		"/mnt/hosting/prcnitssu/html/adm/105_soft/add_to_stock.php",
+		"/mnt/hosting/prcnitssu/html/adm/constant.inc.php",
+		"/mnt/hosting/prcnitssu/html/adm/105_soft/index.php",
+		"/mnt/hosting/mmi/html/sites/all/themes/izjournal/field--field-key-words--journalarticle.tpl.php",
+		"/mnt/hosting/mmi/html/sites/all/themes/izjournal/field--field-literature--journalarticle.tpl.php",
+		"/mnt/hosting/mmi/html/sites/all/themes/izjournal/node--author--revisionreference-teaser.tpl.php",
+		"/mnt/hosting/andjournal/html/sites/all/themes/bonjour/css/style.css",
+		"/mnt/hosting/andjournal/html/sites/all/themes/bonjour/page.tpl.php",
+		"/mnt/hosting/bonjour/html/sites/all/themes/bonjour/css/style.css",
+		"/mnt/hosting/andjournal/html/sites/all/themes/bonjour/bonjour.info",
+		"/home/administrator/pub/ПНД/bonjour/css/style.css",
+		"/mnt/hosting/andjournal/html/sites/all/themes/bonjour/template.php",
+		"/mnt/hosting/mmi/html/sites/all/themes/izjournal/field--field-journal-link--journalarticle.tpl.php",
+		"/mnt/hosting/mmi/html/sites/all/themes/izjournal/node--journal-number--search-articles-context.tpl.php",
+		"/mnt/hosting/mmi/html/sites/all/themes/izjournal/node--author.tpl.php",
+		"/mnt/hosting/mmi/html/sites/all/themes/izjournal/node--company--author-context.tpl.php",
+		"/mnt/hosting/mmi/html/sites/all/modules/custom/journal_publisher/journal_publisher.module",
+		"/mnt/hosting/zhanry/html/sites/all/modules/custom/journal_publisher/journal_publisher.module",
+		"/mnt/hosting/mmi/html/sites/all/modules/revisionreference/revisionreference.module",
+		"/mnt/hosting/bonjour/html/sites/all/themes/bonjour/template.php",
+		"/home/administrator/bin/drupal-diffdump",
+		"/mnt/hosting/hmm/html/sites/all/themes/bonjour/css/style.css",
+		"/mnt/hosting/prcnit/sites/all/themes/prport/style.css",
+		"/mnt/hosting/prcnit/sites/all/modules/faq/includes/faq-category-questions-inline.tpl.php",
+		"/mnt/hosting/prcnit/sites/all/modules/faq/includes/faq-category-questions-top-answers.tpl.php",
+		"/mnt/hosting/prcnit/sites/all/modules/faq/includes/faq-questions-inline.tpl.php",
+		"/mnt/hosting/prcnit/sites/all/modules/faq/includes/faq.questions_inline.inc",
+		"/mnt/hosting/prcnit/sites/all/modules/faq/includes/faq-questions-top.tpl.php",
+		"/mnt/hosting/mmi/html/modules/field/field.attach.inc",
+		"/mnt/hosting/hmm/html/sites/all/themes/bonjour/css/nice_menus.css",
+		"/home/administrator/Загрузки/phpfm.php",
+		"/mnt/hosting/energetica/html/sites/all/themes/bonjour/css/style.css",
+		"/mnt/hosting/energetica/html/sites/all/themes/bonjour/template.php",
+		"/mnt/hosting/hmm/html/sites/all/themes/bonjour/template.php",
+		"/mnt/hosting/hmm/html/sites/all/modules/entity_translation/entity_translation.module",
+		"/mnt/hosting/hmm/html/sites/all/themes/bonjour/page.tpl.php",
+		"/mnt/hosting/hmm/html/modules/block/block.tpl.php",
+		"/mnt/hosting/hmm/html/sites/all/themes/bonjour/bonjour.info",
+		"/home/administrator/bin/diffkit",
+		"/home/administrator/bin/clojure",
+		"/home/administrator/www/minefield/testdrive/index.php",
+		"/mnt/hosting/energetica/html/sites/all/themes/bonjour/css/nice_menus.css",
+		"/home/administrator/www/minefield/testdrive/protected/views/layouts/main.php",
+		"/home/administrator/www/minefield/testdrive/protected/config/main.php",
+		"/mnt/hosting/energetica/html/sites/all/themes/bonjour/page.tpl.php",
+		"/home/administrator/www/minefield/testdrive/protected/views/site/index.php",
+		"/home/administrator/www/minefield/testdrive/protected/controllers/UserController.php",
+		"/home/administrator/www/minefield/testdrive/.htaccess",
+		"/home/administrator/www/minefield/testdrive/protected/.htaccess",
+		"/home/administrator/www/minefield/testdrive/index-test.php",
+		"/mnt/hosting/zhanry/html/sites/all/modules/revisionreference/revisionreference.module",
+		"/mnt/hosting/zhanry/html/sites/all/themes/phylology/css/style.css",
+		"/mnt/hosting/zhanry/html/sites/all/modules/custom/custom_tweaks/custom_tweaks.module",
+		"/mnt/hosting/bonjour/html/sites/all/modules/revisionreference/revisionreference.module",
+		"/home/administrator/work/prcnit/Публикации - View.php",
+		"/home/administrator/tmp/settings.php",
+		"/home/administrator/.wine/drive_c/Program Files/WinSCP/C",
+		"/home/administrator/Загрузки/locales_target-translation-1537.bin",
+		"/home/administrator/Загрузки/date-6.x-2.9.ru.po",
+		"/tmp/rsub-6wmqoq/style.scss",
+		"/tmp/rsub-x0lezl/views-view-unformatted--documents--page.tpl.php",
+		"/tmp/rsub-ktf1h8/field--field-history.tpl.php",
+		"/tmp/rsub-2rnvsh/template.php",
+		"/tmp/rsub-cjbfiv/field--field-history.tpl.php",
+		"/tmp/rsub-0mg73a/template.php",
+		"/tmp/rsub-7ubmc0/style.scss",
+		"/tmp/rsub-cl455t/node--gallery.tpl.php",
+		"/tmp/rsub-bgepg3/node--view--event-reports--block.tpl.php",
+		"/mnt/hosting/soziopolit/html/sites/all/modules/custom/journal_publisher/journal_publisher.module",
+		"/mnt/hosting/soziopolit/html/sites/all/modules/custom/author_articles_block/translations/author_articles_block.ru.po",
+		"/mnt/hosting/soziopolit/html/sites/all/modules/custom/custom_tweaks/custom_tweaks.module",
+		"/mnt/hosting/soziopolit/html/sites/all/modules/custom/author_articles_block/author_articles_block.module",
+		"/tmp/rsub-7iiri1/node--event--in-block.tpl.php",
+		"/tmp/rsub-pu554p/style.scss",
+		"/tmp/rsub-bs2wra/template.php",
+		"/tmp/rsub-c6i6c6/template.php",
+		"/tmp/rsub-wvx3wb/template",
+		"/home/administrator/.config/sublime-text-3/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/home/administrator/.config/sublime-text-3/Packages/SublimeOnSaveBuild/README.md",
+		"/home/administrator/.config/sublime-text-3/Packages/User/Sass.sublime-settings",
+		"/home/administrator/.config/sublime-text-3/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/tmp/rsub-r8db3y/tuning-primer.sh",
+		"/home/administrator/.config/sublime-text-3/Packages/rsub/rsub.sublime-settings",
+		"/mnt/vsgu.ru/saripkro/sites/all/modules/custom/saripkro_tweaks/templates/upcoming-events.tpl.php",
+		"/home/administrator/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/mnt/vsgu.ru/saripkro/sites/all/modules/custom/saripkro_tweaks/saripkro_tweaks.module",
+		"/mnt/vsgu.ru/saripkro/sites/all/themes/saripkro/templates/node--event--in-block.tpl.php",
+		"/home/administrator/bin/sublimetext2/C",
+		"/home/administrator/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/administrator/pub/экономисты/drupal17_1.sql",
+		"/home/administrator/www/bonjour/testquery.sh",
+		"/home/administrator/www/bonjour/sites/all/themes/bonjour/node--journal-number--search-articles-context.tpl.php",
+		"/home/administrator/www/bonjour/sites/all/themes/bonjour/css/style.css",
+		"/home/administrator/www/bonjour/sites/all/modules/revisionreference/revisionreference.module",
+		"/home/administrator/www/bonjour/sites/all/modules/entity/modules/field.info.inc",
+		"/home/administrator/www/bonjour/sites/all/modules/entityreference/entityreference.module",
+		"/home/administrator/www/bonjour/sites/all/modules/entity/entity.api.php",
+		"/home/administrator/www/bonjour/sites/all/themes/bonjour/node--company--author-context.tpl.php",
+		"/home/administrator/www/bonjour/sites/all/themes/bonjour/node--author--revisionreference-teaser.tpl.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");\n",
+			"/>',\n",
+			" ",
+			"width",
+			"margin",
+			"margin(-left)?:[0-9.]+[a-z]+;",
+			"<C-]>",
+			"]",
+			"&gt;",
+			"&lt;",
+			"&amp;",
+			"volum",
+			"<\\?\\s",
+			"view-articles-in-journal",
+			"block-views-articles-in-journal-block",
+			"headings",
+			"content",
+			"variables",
+			"table",
+			"faq",
+			"<p align=\"center\">",
+			"</p>",
+			"<p>",
+			"<p class=\"rtecenter\">",
+			"block-views-headings-block",
+			"entity_translation_unavailable",
+			"tar",
+			"minefield",
+			"block-views-headings-block",
+			"view-article-search",
+			"5em",
+			"апреля",
+			"    ",
+			"field",
+			"preprocess_node",
+			"saripkro_tweaks_entity_info_alter",
+			"');\n",
+			" [",
+			"drupal_set_message",
+			");\n",
+			"	",
+			"get_behavior_handlers",
+			"default_property_callback",
+			"entityreference_field_property_callback",
+			"hook_field_info",
+			" [",
+			"baseline",
+			"  ",
+			"file_link",
+			"();\n",
+			"_",
+			"++ "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"|",
+			"",
+			">",
+			"<",
+			"&",
+			"<?php ",
+			"vars",
+			"",
+			"$DB",
+			"  ",
+			"\n[",
+			"  ",
+			" \n[",
+			"	",
+			"-"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "app01.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
