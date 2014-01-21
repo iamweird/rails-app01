@@ -43,3 +43,6 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# common functionality for location-oriented applications
+gem 'geokit-rails'
