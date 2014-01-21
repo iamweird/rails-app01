@@ -15,7 +15,7 @@
 <script>
   ymaps.ready(function () {
     var myMap = new ymaps.Map('YMapsID', {
-        center: [<%= @flat.lon %>, <%= @flat.lat %>],
+        center: [<%= @flat.lat %>, <%= @flat.lon %>],
         zoom: 12,
         // Обратите внимание, что в API 2.1 по умолчанию карта создается с элементами управления.
         // Если вам не нужно их добавлять на карту, в ее параметрах передайте пустой массив в поле controls.
