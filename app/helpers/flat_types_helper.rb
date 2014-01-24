@@ -1,0 +1,2 @@
+module FlatTypesHelper
+end

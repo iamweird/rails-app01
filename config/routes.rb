@@ -1,4 +1,14 @@
 App01::Application.routes.draw do
+  resources :internet_types
+
+  resources :streets
+
+  resources :flat_types
+
+  resources :districts
+
+  resources :cities
+
   resources :flats
 
   # The priority is based upon order of creation: first created -> highest priority.

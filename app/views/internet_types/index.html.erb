@@ -1,0 +1,27 @@
+<h1>Listing internet_types</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @internet_types.each do |internet_type| %>
+      <tr>
+        <td><%= internet_type.name %></td>
+        <td><%= link_to 'Show', internet_type %></td>
+        <td><%= link_to 'Edit', edit_internet_type_path(internet_type) %></td>
+        <td><%= link_to 'Destroy', internet_type, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Internet type', new_internet_type_path %>
